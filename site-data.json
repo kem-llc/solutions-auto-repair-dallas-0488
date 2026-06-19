@@ -1,0 +1,325 @@
+{
+  "business": {
+    "name": "Solutions Auto Repair",
+    "shortName": "Solutions Auto",
+    "tagline": "Expert Auto Repair in Dallas, TX",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 360-0488",
+    "address": "Dallas, TX",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri: 7:30 AM - 6:00 PM, Sat: 8:00 AM - 2:00 PM",
+    "ctaLabel": "Schedule an Appointment",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Solutions Auto Repair | Trusted Auto Mechanic in Dallas, TX",
+    "description": "Expert auto repair and maintenance in Dallas, TX. From brakes to transmissions, we keep your car running smoothly. Call (214) 360-0488 today!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Auto Repair Shop",
+      "headline": "Reliable Car Care You Can Count On",
+      "subheadline": "From routine oil changes to complex engine repairs, our certified mechanics deliver honest, high-quality service every time.",
+      "primaryCta": "Book an Appointment",
+      "secondaryCta": "Call (214) 360-0488"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "5,000+",
+        "label": "Cars Serviced"
+      },
+      {
+        "value": "4.9",
+        "label": "Customer Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Quality Workmanship",
+        "title": "Factory-Level Diagnostics & Repairs",
+        "body": "We use state-of-the-art diagnostic equipment to pinpoint issues quickly and accurately. Whether it's a check engine light or a strange noise, we'll find the problem and fix it right the first time.",
+        "bullets": [
+          "Advanced computer diagnostics",
+          "OEM and high-quality aftermarket parts",
+          "All makes and models welcome"
+        ],
+        "reverse": false,
+        "cardLabel": "Transparency",
+        "cardTitle": "No Surprises",
+        "cardBody": "We provide detailed estimates and explain every repair before we start. You'll never be charged for work you didn't approve."
+      },
+      {
+        "eyebrow": "Customer First",
+        "title": "Honest Service, Fair Prices",
+        "body": "We believe in building long-term relationships with our customers. That means honest recommendations, competitive pricing, and a commitment to getting you back on the road safely.",
+        "bullets": [
+          "Free multi-point inspections",
+          "Competitive rates with no hidden fees",
+          "Warranty on all repairs"
+        ],
+        "reverse": true,
+        "cardLabel": "Convenience",
+        "cardTitle": "Quick Turnaround",
+        "cardBody": "Most repairs are completed the same day. We also offer shuttle service and loaner vehicles to minimize disruption to your schedule."
+      }
+    ],
+    "whyTitle": "Why Choose Solutions Auto Repair?",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our mechanics are ASE-certified and undergo continuous training to stay current with the latest automotive technology."
+      },
+      {
+        "title": "Customer Satisfaction Guaranteed",
+        "description": "We stand behind our work with a comprehensive warranty. If you're not happy, we'll make it right."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Get a clear, upfront estimate before any work begins. No surprises, no upsells."
+      },
+      {
+        "title": "Convenient Location",
+        "description": "Easily accessible in Dallas, with ample parking and flexible hours to fit your busy schedule."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I've been bringing my car here for years. They're honest, fair, and always get the job done quickly.",
+        "author": "Mike R.",
+        "role": "Loyal Customer"
+      },
+      {
+        "quote": "After a bad experience at another shop, Solutions Auto restored my trust. They explained everything clearly and the price was reasonable.",
+        "author": "Jessica T.",
+        "role": "Dallas Resident"
+      },
+      {
+        "quote": "Fast, friendly, and reliable. I highly recommend them for any auto repair needs.",
+        "author": "David L.",
+        "role": "Frequent Visitor"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Running Smoothly?",
+      "subheadline": "Call us today or book online to schedule your appointment.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (214) 360-0488"
+    }
+  },
+  "servicesPage": {
+    "intro": "We offer a full range of auto repair and maintenance services to keep your vehicle performing at its best. From routine tune-ups to major repairs, our team has the expertise to handle it all."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Expert brake services to ensure your safety on the road.",
+      "longDescription": "Your brakes are your vehicle's most critical safety system. We inspect, repair, and replace brake pads, rotors, calipers, and lines using premium parts. Whether you're hearing squeaks or feeling vibrations, we'll restore your stopping power.",
+      "benefits": [
+        "Enhanced safety and stopping distance",
+        "Reduced noise and vibration",
+        "Longer brake component life",
+        "Peace of mind on every drive"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We perform a thorough brake inspection, measuring pad thickness, rotor condition, and fluid levels."
+        },
+        {
+          "title": "Diagnosis",
+          "description": "We identify the root cause of any issues and provide a detailed explanation of recommended repairs."
+        },
+        {
+          "title": "Repair",
+          "description": "Our technicians replace worn components with quality parts and test the system to ensure optimal performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000 to 70,000 miles, depending on driving habits and conditions. We'll check them during your visit."
+        },
+        {
+          "question": "What are signs of brake problems?",
+          "answer": "Squealing or grinding noises, a soft brake pedal, vibrations, or longer stopping distances. If you notice any, schedule an inspection immediately."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "02",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Advanced diagnostics to solve engine problems efficiently.",
+      "longDescription": "When your check engine light comes on or your car isn't running smoothly, our advanced diagnostic tools pinpoint the issue quickly. From sensor replacements to major engine overhauls, we have the expertise to get you back on the road.",
+      "benefits": [
+        "Accurate diagnosis saves time and money",
+        "Improved fuel economy and performance",
+        "Prevents minor issues from becoming major repairs",
+        "Factory-level equipment for all makes"
+      ],
+      "process": [
+        {
+          "title": "Scan & Analyze",
+          "description": "We connect our diagnostic scanner to read error codes and live data from your vehicle's computer."
+        },
+        {
+          "title": "Inspect & Test",
+          "description": "Our technicians perform hands-on tests to confirm the source of the problem."
+        },
+        {
+          "title": "Repair & Verify",
+          "description": "We complete the necessary repairs and re-test to ensure everything is working perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my check engine light on?",
+          "answer": "It could be something minor like a loose gas cap or something more serious. We'll diagnose it accurately."
+        },
+        {
+          "question": "Can you work on any car brand?",
+          "answer": "Yes, our technicians are trained to service all makes and models, domestic and import."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Changes & Routine Maintenance",
+      "shortDescription": "Keep your engine running smoothly with regular maintenance.",
+      "longDescription": "Regular oil changes are the lifeblood of your engine. We use high-quality oils and filters to protect your engine and extend its life. Our maintenance packages also include fluid checks, filter replacements, and multi-point inspections.",
+      "benefits": [
+        "Prolongs engine life and performance",
+        "Improves fuel efficiency",
+        "Prevents costly repairs down the road",
+        "Includes a complimentary multi-point inspection"
+      ],
+      "process": [
+        {
+          "title": "Oil Drain & Filter Change",
+          "description": "We drain old oil, replace the filter, and refill with the correct grade of fresh oil."
+        },
+        {
+          "title": "Fluid Check",
+          "description": "We top off all essential fluids including coolant, transmission, brake, and windshield washer fluid."
+        },
+        {
+          "title": "Multi-Point Inspection",
+          "description": "We inspect belts, hoses, tires, battery, and lights to catch potential issues early."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most modern vehicles need an oil change every 5,000 to 7,500 miles. Check your owner's manual or ask us."
+        },
+        {
+          "question": "What type of oil does my car need?",
+          "answer": "We'll use the manufacturer-recommended viscosity and type, whether conventional, synthetic blend, or full synthetic."
+        }
+      ],
+      "slug": "oil-changes-routine-maintenance"
+    },
+    {
+      "icon": "04",
+      "title": "Transmission Services",
+      "shortDescription": "Professional transmission repair and maintenance.",
+      "longDescription": "Your transmission is a complex and vital component. We offer fluid changes, filter replacements, and full transmission repairs for both automatic and manual transmissions. Early maintenance can prevent expensive rebuilds.",
+      "benefits": [
+        "Smoother shifting and improved performance",
+        "Extends transmission life",
+        "Prevents major failures",
+        "Competitive pricing on rebuilds"
+      ],
+      "process": [
+        {
+          "title": "Fluid Check & Test Drive",
+          "description": "We inspect fluid condition and level, then test drive to assess shifting behavior."
+        },
+        {
+          "title": "Service or Repair",
+          "description": "Depending on findings, we perform a fluid flush or necessary repairs using quality parts."
+        },
+        {
+          "title": "Final Test",
+          "description": "We test drive again to confirm proper operation and smooth shifting."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should transmission fluid be changed?",
+          "answer": "Every 30,000 to 60,000 miles for most vehicles. Check your manual for specific intervals."
+        },
+        {
+          "question": "What are signs of transmission trouble?",
+          "answer": "Slipping gears, delayed engagement, strange noises, or leaking fluid. Bring it in for a diagnosis."
+        }
+      ],
+      "slug": "transmission-services"
+    }
+  ],
+  "about": {
+    "headline": "Your Reliable Auto Repair Partner in Dallas",
+    "mission": "Our mission is to provide honest, high-quality auto repair services that keep our customers safe and satisfied. We treat every car as if it were our own.",
+    "story": [
+      "Solutions Auto Repair was founded with a simple goal: to offer Dallas drivers a better auto repair experience. Tired of high-pressure sales and shoddy work, our founder set out to build a shop based on transparency, quality, and customer service. Over the years, we've grown from a small two-bay garage to a full-service facility, but our core values remain the same.",
+      "Today, our team of certified technicians handles everything from routine maintenance to complex engine and transmission repairs. We invest in the latest diagnostic equipment and ongoing training to ensure we can service any vehicle that comes through our doors. Our loyal customer base is a testament to our commitment to doing the job right."
+    ],
+    "highlight": {
+      "stat": "15+",
+      "label": "Years Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always recommend only necessary repairs and provide transparent pricing."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-tier parts and follow manufacturer specifications for every repair."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our priority. We listen, explain, and ensure you're comfortable with every decision."
+      },
+      {
+        "title": "Continuous Improvement",
+        "description": "We stay updated with the latest automotive technology and techniques to serve you better."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to schedule an appointment? Call us or fill out the form below.",
+    "primaryCta": "Call (214) 360-0488",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Oak Lawn",
+      "Lakewood"
+    ]
+  },
+  "social_proof": {
+    "rating": 3.9,
+    "reviews": ""
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143600488",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
